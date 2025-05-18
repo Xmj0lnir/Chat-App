@@ -14,13 +14,13 @@ A real-time chat application with message persistence built using Node.js, Expre
 ## Screenshots
 
 ### Joining USer
-![Joining User](screenshots/Screenshot From 2025-05-18 16-29-26.png)
+![Joining User](screenshots/ScreenshotFrom2025-05-1816-29-26.png)
 
 ### Chat Interface
-![Chat Interface](screenshots/Screenshot From 2025-05-18 16-29-41.png)
+![Chat Interface](screenshots/ScreenshotFrom025-05-1816-29-41.png)
 
 ### Left User
-![Left User](screenshots/Screenshot From 2025-05-18 16-29-56.png)
+![Left User](screenshots/ScreenshotFrom2025-05-1816-29-56.png)
 
 ## Requirements
 
