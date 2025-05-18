@@ -1,0 +1,61 @@
+[
+  {
+    "type": "system",
+    "sender": "System",
+    "content": "Giovanna has joined the chat",
+    "timestamp": "2025-05-18T16:27:55.636Z"
+  },
+  {
+    "type": "user",
+    "sender": "Giovanna",
+    "senderId": "S-jSuNobikZpcMWVAAAB",
+    "content": "Hello Dude",
+    "timestamp": "2025-05-18T16:28:02.335Z"
+  },
+  {
+    "type": "system",
+    "sender": "System",
+    "content": "Gio has joined the chat",
+    "timestamp": "2025-05-18T16:28:10.109Z"
+  },
+  {
+    "type": "user",
+    "sender": "Gio",
+    "senderId": "k9p5_8phAjNSiebvAAAD",
+    "content": "Hi Giova",
+    "timestamp": "2025-05-18T16:28:14.260Z"
+  },
+  {
+    "type": "user",
+    "sender": "Gio",
+    "senderId": "k9p5_8phAjNSiebvAAAD",
+    "content": "I remember when we first met",
+    "timestamp": "2025-05-18T16:28:29.596Z"
+  },
+  {
+    "type": "user",
+    "sender": "Gio",
+    "senderId": "k9p5_8phAjNSiebvAAAD",
+    "content": "Cd",
+    "timestamp": "2025-05-18T16:28:30.432Z"
+  },
+  {
+    "type": "user",
+    "sender": "Gio",
+    "senderId": "k9p5_8phAjNSiebvAAAD",
+    "content": "XD",
+    "timestamp": "2025-05-18T16:28:32.117Z"
+  },
+  {
+    "type": "system",
+    "sender": "System",
+    "content": "Gio has left the chat",
+    "timestamp": "2025-05-18T16:29:14.997Z"
+  },
+  {
+    "type": "system",
+    "sender": "System",
+    "content": "Giovanna has left the chat",
+    "timestamp": "2025-05-18T16:32:08.101Z"
+  }
+]
