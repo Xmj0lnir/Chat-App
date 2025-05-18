@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Chat App</h1>
+            <div id="user-info"></div>
+        </div>
+        
+        <div class="main-content">
+            <div id="login-screen" class="screen">
+                <h2>Enter Your Username</h2>
+                <div class="form-group">
+                    <input type="text" id="username-input" placeholder="Username">
+                    <button id="join-btn">Join Chat</button>
+                </div>
+            </div>
+            
+            <div id="chat-screen" class="screen hidden">
+                <div class="chat-container">
+                    <div class="sidebar">
+                        <h3>Active Users</h3>
+                        <ul id="users-list"></ul>
+                    </div>
+                    
+                    <div class="chat-area">
+                        <div id="messages-container"></div>
+                        
+                        <div class="message-input-container">
+                            <input type="text" id="message-input" placeholder="Type a message...">
+                            <button id="send-btn">Send</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>&copy; 2023 Chat App</p>
+        </div>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="script.js"></script>
+</body>
+</html> 
