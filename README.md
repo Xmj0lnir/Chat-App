@@ -11,6 +11,15 @@ A real-time chat application with message persistence built using Node.js, Expre
 - Responsive design for desktop and mobile
 - Simple and intuitive UI
 
+## Screenshots
+
+### Login Screen
+![Login Screen](screenshots/login-screen.png)
+
+### Chat Interface
+![Chat Interface](screenshots/chat-interface.png)
+
+
 ## Requirements
 
 - Node.js (v14+)
